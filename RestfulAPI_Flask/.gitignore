@@ -1,0 +1,3 @@
+# untuk ignore package yang masuk di github
+jcop_flask/
+.vscode/
